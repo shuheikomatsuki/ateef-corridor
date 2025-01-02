@@ -15,6 +15,7 @@ public class DestroyBattery : MonoBehaviourPun
     {
 
     }
+    
 
     private IEnumerator enumerator(float delay)
     {
